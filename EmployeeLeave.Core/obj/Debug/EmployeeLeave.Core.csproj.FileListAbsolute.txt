@@ -1,0 +1,15 @@
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\EmployeeLeave.Core.dll
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\EmployeeLeave.Core.pdb
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\obj\Debug\EmployeeLeave.Core.csprojAssemblyReference.cache
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\obj\Debug\EmployeeLeave.Core.csproj.CopyComplete
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\obj\Debug\EmployeeLeave.Core.dll
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\obj\Debug\EmployeeLeave.Core.pdb
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\Dapper.dll
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\Dapper.xml
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\FluentValidation.dll
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\log4net.dll
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\FluentValidation.xml
+C:\Users\janea\Desktop\.NET\Employee leave API\EmployeeLeave.Core\bin\Debug\log4net.xml
